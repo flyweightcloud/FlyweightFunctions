@@ -1,0 +1,1489 @@
+[
+  {
+    "id": "0",
+    "format": "QA",
+    "content": [
+      "Q: Relationship status?",
+      "A: I'll leave the relations to the database."
+    ]
+  },
+  {
+    "id": "1",
+    "format": "QA",
+    "content": [
+      "Q: How do you get the code for the bank vault?",
+      "A: You checkout their branch."
+    ]
+  },
+  {
+    "id": "2",
+    "format": "QA",
+    "content": [
+      "Q: How did the developer announce their engagement?",
+      "A: They <code>return</code>ed <code>true</code>!"
+    ]
+  },
+  {
+    "id": "3",
+    "format": "QA",
+    "content": [
+      "Q: Why did the security conscious engineer refuse to pay their dinner bill?",
+      "A: Because they could not verify the checksum."
+    ]
+  },
+  {
+    "id": "4",
+    "format": "QA",
+    "content": [
+      "Q: What do you call a busy waiter?",
+      "A: A server."
+    ]
+  },
+  {
+    "id": "5",
+    "format": "QA",
+    "content": [
+      "Q: What do you call an idle server?",
+      "A: A waiter."
+    ]
+  },
+  {
+    "id": "6",
+    "format": "one-liner",
+    "content": [
+      "<code>[Please Enter New Password]</code><p>fortnight</p><code>[Error: Password is Two Week]</code>"
+    ]
+  },
+  {
+    "id": "7",
+    "format": "QA",
+    "content": [
+      "Q: How many Prolog programmers does it take to change a lightbulb?",
+      "A: Yes."
+    ]
+  },
+  {
+    "id": "8",
+    "format": "one-liner",
+    "content": [
+      "I’ve been hearing news about this big boolean. Huge if true."
+    ]
+  },
+  {
+    "id": "9",
+    "format": "QA",
+    "content": [
+      "Q: What diet did the ghost developer go on?",
+      "A: Boooooolean"
+    ]
+  },
+  {
+    "id": "10",
+    "format": "QA",
+    "content": [
+      "Q: Why was the developer unhappy at their job?",
+      "A: They wanted arrays."
+    ]
+  },
+  {
+    "id": "11",
+    "format": "QA",
+    "content": [
+      "Q: Why did 10 get paid less than \"10\"?",
+      "A: There was workplace inequality."
+    ]
+  },
+  {
+    "id": "12",
+    "format": "QA",
+    "content": [
+      "Q: Why was the function sad after a successful first call?",
+      "A: It didn’t get a callback."
+    ]
+  },
+  {
+    "id": "13",
+    "format": "QA",
+    "content": [
+      "Q: Why did the angry function exceed the callstack size?",
+      "A: It got into an Argument with itself"
+    ]
+  },
+  {
+    "id": "14",
+    "format": "QA",
+    "content": [
+      "Q: Whats the object-oriented way to become wealthy?",
+      "A: Inheritance"
+    ]
+  },
+  {
+    "id": "15",
+    "format": "QA",
+    "content": [
+      "Q: Why did the developer ground their kid?",
+      "A: They weren't telling the truthy"
+    ]
+  },
+  {
+    "id": "16",
+    "format": "QA",
+    "content": [
+      "Q: What did the array say after it was extended?",
+      "A: Stop objectifying me."
+    ]
+  },
+  {
+    "id": "17",
+    "format": "one-liner",
+    "content": [
+      "**!false**It's funny 'cause it's true."
+    ]
+  },
+  {
+    "id": "18",
+    "format": "QA",
+    "content": [
+      "Q: Where did the parallel function wash its hands?",
+      "A: Async"
+    ]
+  },
+  {
+    "id": "19",
+    "format": "QA",
+    "content": [
+      "Q: I'm starting a band called HTML Encoder",
+      "A: Looking to buy a guitar \\&"
+    ]
+  },
+  {
+    "id": "20",
+    "format": "QA",
+    "content": [
+      "Q: Why did the functions stop calling each other?",
+      "A: Because they had constant arguments."
+    ]
+  },
+  {
+    "id": "21",
+    "format": "QA",
+    "content": [
+      "Q: What's the second movie about a database engineer called?",
+      "A: The SQL."
+    ]
+  },
+  {
+    "id": "22",
+    "format": "QA",
+    "content": [
+      "Q: Why doesn't Hollywood make more Big Data movies?",
+      "A: NoSQL."
+    ]
+  },
+  {
+    "id": "23",
+    "format": "one-liner",
+    "content": [
+      "A programmer's significant other tells them, \"Run to the store and pick up a loaf of bread. If they have eggs, get a dozen.\"The programmer comes home with 12 loaves of bread."
+    ]
+  },
+  {
+    "id": "24",
+    "format": "QA",
+    "content": [
+      "Q: What did the spider do on the computer?",
+      "A: Made a website!"
+    ]
+  },
+  {
+    "id": "25",
+    "format": "QA",
+    "content": [
+      "Q: What did the computer do at lunchtime?",
+      "A: Had a byte!"
+    ]
+  },
+  {
+    "id": "26",
+    "format": "QA",
+    "content": [
+      "Q: What does a baby computer call his father?",
+      "A: Data!"
+    ]
+  },
+  {
+    "id": "27",
+    "format": "QA",
+    "content": [
+      "Q: Why did the computer keep sneezing?",
+      "A: It had a virus!"
+    ]
+  },
+  {
+    "id": "28",
+    "format": "QA",
+    "content": [
+      "Q: What is a computer virus?",
+      "A: A terminal illness!"
+    ]
+  },
+  {
+    "id": "29",
+    "format": "one-liner",
+    "content": [
+      "I never tell the same joke twice I have a DRY sense of humor."
+    ]
+  },
+  {
+    "id": "30",
+    "format": "QA",
+    "content": [
+      "Q: Why was the computer freezing?",
+      "A: It left its Windows open!"
+    ]
+  },
+  {
+    "id": "31",
+    "format": "QA",
+    "content": [
+      "Q: Why was there a bug in the computer?",
+      "A: Because it was looking for a byte to eat?"
+    ]
+  },
+  {
+    "id": "32",
+    "format": "QA",
+    "content": [
+      "Q: Why did the computer squeak?",
+      "A: Because someone stepped on its mouse!"
+    ]
+  },
+  {
+    "id": "33",
+    "format": "QA",
+    "content": [
+      "Q: What do you get when you cross a computer and a life guard?",
+      "A: A screensaver!"
+    ]
+  },
+  {
+    "id": "34",
+    "format": "QA",
+    "content": [
+      "Q: Where do all the cool mice live?",
+      "A: In their mousepads!"
+    ]
+  },
+  {
+    "id": "35",
+    "format": "QA",
+    "content": [
+      "Q: What do you get when you cross a computer with an elephant?",
+      "A: Lots of memory!"
+    ]
+  },
+  {
+    "id": "36",
+    "format": "one-liner",
+    "content": [
+      "Java truly is an OOP language...\nAs in: OOPs I used Java!"
+    ]
+  },
+  {
+    "id": "37",
+    "format": "QA",
+    "content": [
+      "Q: How do programming pirates pass method parameters?",
+      "A: Varrrrarrrgs."
+    ]
+  },
+  {
+    "id": "38",
+    "format": "QA",
+    "content": [
+      "Q: How do programming shepherds count their flock?",
+      "A: With lambda functions"
+    ]
+  },
+  {
+    "id": "39",
+    "format": "QA",
+    "content": [
+      "Q: What airline do developers prefer when they're in a rush?",
+      "A: Delta."
+    ]
+  },
+  {
+    "id": "40",
+    "format": "QA",
+    "content": [
+      "Q: How did pirates collaborate before computers?",
+      "A: Pier to pier networking."
+    ]
+  },
+  {
+    "id": "41",
+    "format": "QA",
+    "content": [
+      "Q: Why don't bachelors like Git?",
+      "A: Because they are afraid to commit."
+    ]
+  },
+  {
+    "id": "42",
+    "format": "QA",
+    "content": [
+      "Q: A SQL query goes into a bar, walks up to two tables and asks:",
+      "A: Can I JOIN you?"
+    ]
+  },
+  {
+    "id": "43",
+    "format": "QA",
+    "content": [
+      "Q: How does a developer make a cheer?",
+      "A: [\"hip\",\"hip\"] // (hip hip array!)"
+    ]
+  },
+  {
+    "id": "44",
+    "format": "QA",
+    "content": [
+      "Q: Why was the developer's family upset with them at dinner?",
+      "A: They forgot to git squash before going home"
+    ]
+  },
+  {
+    "id": "45",
+    "format": "QA",
+    "content": [
+      "Q: What did JavaScript call his son?",
+      "A: JSON!"
+    ]
+  },
+  {
+    "id": "46",
+    "format": "QA",
+    "content": [
+      "Q: What did the proud React component say to its child?",
+      "A: I've got to give you props"
+    ]
+  },
+  {
+    "id": "47",
+    "format": "QA",
+    "content": [
+      "Q: What did the server say to his client who was having a bad day?",
+      "A: Everything's going to be 200"
+    ]
+  },
+  {
+    "id": "48",
+    "format": "QA",
+    "content": [
+      "Q: Why did the developer go broke?",
+      "A: Because they used up all their cache"
+    ]
+  },
+  {
+    "id": "49",
+    "format": "QA",
+    "content": [
+      "Q: Are computers dangerous?",
+      "A: Nah, they don't byte. They just nibble a bit."
+    ]
+  },
+  {
+    "id": "50",
+    "format": "QA",
+    "content": [
+      "Q: How did the mafioso kill the Node server?",
+      "A: Tie await to it and let it async."
+    ]
+  },
+  {
+    "id": "51",
+    "format": "QA",
+    "content": [
+      "Q: You know what the best thing about booleans is?",
+      "A: Even if you are wrong, you are only off by a bit."
+    ]
+  },
+  {
+    "id": "52",
+    "format": "QA",
+    "content": [
+      "Q: Why couldn’t the user update a file on a shared server?",
+      "A: They didn’t have the write permissions"
+    ]
+  },
+  {
+    "id": "53",
+    "format": "QA",
+    "content": [
+      "Q: What do you do when you can't understand your husband's behavior?",
+      "A: man man"
+    ]
+  },
+  {
+    "id": "54",
+    "format": "QA",
+    "content": [
+      "Q: What do you call a doctor who fixes websites?",
+      "A: A URLogist"
+    ]
+  },
+  {
+    "id": "55",
+    "format": "QA",
+    "content": [
+      "Q: How many developers does it take to change a light bulb?",
+      "A: None. It's a hardware issue"
+    ]
+  },
+  {
+    "id": "56",
+    "format": "QA",
+    "content": [
+      "Q: Why do programmers always mix up Halloween and Christmas?",
+      "A: Because 31 OCT == 25 DEC"
+    ]
+  },
+  {
+    "id": "57",
+    "format": "QA",
+    "content": [
+      "Q: Why do kayakers make bad programmers?",
+      "A: Because they're afraid of waterfall."
+    ]
+  },
+  {
+    "id": "58",
+    "format": "QA",
+    "content": [
+      "Q: What are computers' favorite snacks?",
+      "A: Microchips, phish sticks, and cookies. But just a few bytes of each."
+    ]
+  },
+  {
+    "id": "59",
+    "format": "QA",
+    "content": [
+      "Q: What do computers love to do at the beach?",
+      "A: Put on some spam block for protection so they can safely surf the net while catching some .WAVs!"
+    ]
+  },
+  {
+    "id": "60",
+    "format": "QA",
+    "content": [
+      "Q: What do you call a computer that sings?",
+      "A: A-dell."
+    ]
+  },
+  {
+    "id": "61",
+    "format": "QA",
+    "content": [
+      "Q: What's a compiler developer's favorite spice?",
+      "A: Parsley."
+    ]
+  },
+  {
+    "id": "62",
+    "format": "QA",
+    "content": [
+      "Q: When do front end developers go out to eat?",
+      "A: On their lunch <code>&lt;&#98;&#114;&gt;</code>."
+    ]
+  },
+  {
+    "id": "63",
+    "format": "QA",
+    "content": [
+      "Q: A SQL developer walked into a NoSQL bar.",
+      "A: They left because they couldn't find a table."
+    ]
+  },
+  {
+    "id": "64",
+    "format": "QA",
+    "content": [
+      "Q: How do you help JS errors?",
+      "A: You <code>console</code> them!"
+    ]
+  },
+  {
+    "id": "65",
+    "format": "QA",
+    "content": [
+      "Q: Why don't parents teach their kids about regular expressions?",
+      "A: Because they don't want them playing with matches"
+    ]
+  },
+  {
+    "id": "66",
+    "format": "QA",
+    "content": [
+      "Q: Why didn't the <code>div</code> get invited to the dinner party?",
+      "A: Because it had no <code>class</code>!"
+    ]
+  },
+  {
+    "id": "67",
+    "format": "QA",
+    "content": [
+      "Q: Why aren't cryptocurrency engineers allowed to vote?",
+      "A: Because they're miners!"
+    ]
+  },
+  {
+    "id": "68",
+    "format": "QA",
+    "content": [
+      "Q: Why did the constant break up with the variable?",
+      "A: Because they changed."
+    ]
+  },
+  {
+    "id": "69",
+    "format": "QA",
+    "content": [
+      "Q: Why did the database administrator leave his wife?",
+      "A: She had one-to-many relationships."
+    ]
+  },
+  {
+    "id": "70",
+    "format": "one-liner",
+    "content": [
+      "Asynchronous JavaScript is amazing.I Promise you, await and see."
+    ]
+  },
+  {
+    "id": "71",
+    "format": "QA",
+    "content": [
+      "Q: What did the Class say in court when put on trial?",
+      "A: I strongly object!"
+    ]
+  },
+  {
+    "id": "72",
+    "format": "QA",
+    "content": [
+      "Q: Why do Java developers wear glasses?",
+      "A: Because they don't C#!"
+    ]
+  },
+  {
+    "id": "73",
+    "format": "QA",
+    "content": [
+      "Q: What are the three hardest problems in computer science?",
+      "A: Naming things and off-by-one errors"
+    ]
+  },
+  {
+    "id": "74",
+    "format": "QA",
+    "content": [
+      "Q: What did the fruit basket say to the developer?",
+      "A: I hope you're ready for some pear programming!"
+    ]
+  },
+  {
+    "id": "75",
+    "format": "QA",
+    "content": [
+      "Q: How does a sysadmin keep a fire going?",
+      "A: They rotate the logs."
+    ]
+  },
+  {
+    "id": "76",
+    "format": "one-liner",
+    "content": [
+      "I've got a great UDP joke but I'm afraid you wouldn't get it..."
+    ]
+  },
+  {
+    "id": "77",
+    "format": "one-liner",
+    "content": [
+      "A programmer was arrested for writing unreadable code. They refused to comment."
+    ]
+  },
+  {
+    "id": "78",
+    "format": "one-liner",
+    "content": [
+      "There are 10 types of people in this world, those who understand binary and those who don't."
+    ]
+  },
+  {
+    "id": "79",
+    "format": "QA",
+    "content": [
+      "Q: I love you and I only love you. Does that turn you on?",
+      "A: ATE:** No."
+    ]
+  },
+  {
+    "id": "80",
+    "format": "QA",
+    "content": [
+      "Q: Why do all HTML emails get blocked?",
+      "A: Because they are all <code>span</code>"
+    ]
+  },
+  {
+    "id": "81",
+    "format": "QA",
+    "content": [
+      "Q: What did the process say after working in an infinite loop all day?",
+      "A: I need a break."
+    ]
+  },
+  {
+    "id": "82",
+    "format": "QA",
+    "content": [
+      "Q: An Agent died unexpectedly. How was the crime solved?",
+      "A: By looking at the Stack Trace."
+    ]
+  },
+  {
+    "id": "83",
+    "format": "QA",
+    "content": [
+      "Q: Why did the document store go out of business?",
+      "A: It had NoSQL."
+    ]
+  },
+  {
+    "id": "84",
+    "format": "QA",
+    "content": [
+      "Q: Why can't SQL and NoSQL Developers date one other?",
+      "A: Because they don't agree on relationships."
+    ]
+  },
+  {
+    "id": "85",
+    "format": "QA",
+    "content": [
+      "Q: Why is Python like the Soviet Union?",
+      "A: Because it has no private fields"
+    ]
+  },
+  {
+    "id": "86",
+    "format": "QA",
+    "content": [
+      "Q: Where did the API go to eat?",
+      "A: To the RESTaurant"
+    ]
+  },
+  {
+    "id": "87",
+    "format": "QA",
+    "content": [
+      "Q: Why shouldn't you trust Matlab developers?",
+      "A: Because they're always plotting something."
+    ]
+  },
+  {
+    "id": "88",
+    "format": "QA",
+    "content": [
+      "Q: Why did the developer have to quit smoking?",
+      "A: Because they couldn't afford to pay the new syntax."
+    ]
+  },
+  {
+    "id": "89",
+    "format": "QA",
+    "content": [
+      "Q: How does a programmer open a jar for their significant other?",
+      "A: They install Java"
+    ]
+  },
+  {
+    "id": "90",
+    "format": "QA",
+    "content": [
+      "Q: What did the psychic say to the developers?",
+      "A: I see dev people."
+    ]
+  },
+  {
+    "id": "91",
+    "format": "QA",
+    "content": [
+      "Q: Where does the pirate stash all of their digital treasures?",
+      "A: RAR"
+    ]
+  },
+  {
+    "id": "92",
+    "format": "QA",
+    "content": [
+      "Q: What is React's favorite movie genre?",
+      "A: Suspense"
+    ]
+  },
+  {
+    "id": "93",
+    "format": "QA",
+    "content": [
+      "Q: Why couldn't the React component understand the joke?",
+      "A: Because it didn't get the context."
+    ]
+  },
+  {
+    "id": "94",
+    "format": "QA",
+    "content": [
+      "Q: What did XHR say to AJAX when it thought it was being a Mean Girl?",
+      "A: Stop trying to make fetch happen!"
+    ]
+  },
+  {
+    "id": "95",
+    "format": "QA",
+    "content": [
+      "Q: What was Grace Hopper's favorite car?",
+      "A: VW Bug"
+    ]
+  },
+  {
+    "id": "96",
+    "format": "QA",
+    "content": [
+      "Q: What sits on a pirate's shoulder and calls, \"Pieces of seven, Pieces of seven\"?",
+      "A: Parroty error."
+    ]
+  },
+  {
+    "id": "97",
+    "format": "QA",
+    "content": [
+      "Q: What is a pirate's favorite programming language?",
+      "A: You'd think it was R, but a pirate's first love is Objectively C."
+    ]
+  },
+  {
+    "id": "98",
+    "format": "QA",
+    "content": [
+      "Q: Why did the programmer come home crying?\"",
+      "A: His friends were always boolean him."
+    ]
+  },
+  {
+    "id": "99",
+    "format": "one-liner",
+    "content": [
+      "**-** Knock Knock!**-** An async function**-** Who's there?"
+    ]
+  },
+  {
+    "id": "100",
+    "format": "QA",
+    "content": [
+      "Q: What PostgreSQL library should Python developers use for adult-oriented code?",
+      "A: psycoPG13"
+    ]
+  },
+  {
+    "id": "101",
+    "format": "one-liner",
+    "content": [
+      "The next time you're using Safari or Firefox and it's running slowly, you can say to yourself,<br/> \"I could've had a V8 (a browser 'engine')\"."
+    ]
+  },
+  {
+    "id": "102",
+    "format": "QA",
+    "content": [
+      "Q: What accommodations did the JavaScript developer request at the hotel?",
+      "A: A room with a Vue."
+    ]
+  },
+  {
+    "id": "103",
+    "format": "QA",
+    "content": [
+      "Q: Where do developers drink?",
+      "A: The Foo bar"
+    ]
+  },
+  {
+    "id": "104",
+    "format": "QA",
+    "content": [
+      "Q: Why do assembly programmers need to know how to swim?",
+      "A: Because they work below C level."
+    ]
+  },
+  {
+    "id": "105",
+    "format": "QA",
+    "content": [
+      "Q: Who used the internet before it was cool?",
+      "A: Httpsters"
+    ]
+  },
+  {
+    "id": "106",
+    "format": "QA",
+    "content": [
+      "Q: What kind of computer can hold a musical note?",
+      "A: A Dell."
+    ]
+  },
+  {
+    "id": "107",
+    "format": "QA",
+    "content": [
+      "Q: Why did the web developer always go to the wrong hotel room?",
+      "A: They were in room 301."
+    ]
+  },
+  {
+    "id": "108",
+    "format": "QA",
+    "content": [
+      "Q: How do you stop a web developer stealing your stuff?",
+      "A: Write 403 on it."
+    ]
+  },
+  {
+    "id": "109",
+    "format": "QA",
+    "content": [
+      "Q: Why are machine learning models so fit?",
+      "A: Because they do weight training."
+    ]
+  },
+  {
+    "id": "110",
+    "format": "QA",
+    "content": [
+      "Q: Why did Gargamel shut down the internet?",
+      "A: Because he didn't want people **SMURFING** the web!"
+    ]
+  },
+  {
+    "id": "111",
+    "format": "QA",
+    "content": [
+      "Q: What did the command line die of?",
+      "A: A Terminal illness."
+    ]
+  },
+  {
+    "id": "112",
+    "format": "QA",
+    "content": [
+      "Q: Did you hear what the clumsy cryptographer did to their password?",
+      "A: Made a hash of it."
+    ]
+  },
+  {
+    "id": "113",
+    "format": "QA",
+    "content": [
+      "Q: Why are keyboards always working so hard?",
+      "A: Cause they have two shifts!"
+    ]
+  },
+  {
+    "id": "114",
+    "format": "QA",
+    "content": [
+      "Q: What are clouds made of?",
+      "A: Mostly linux servers."
+    ]
+  },
+  {
+    "id": "115",
+    "format": "QA",
+    "content": [
+      "Q: How does Mr. Potato Head (dev edition 0.0.1) remove his mustache?",
+      "A: git stache pop"
+    ]
+  },
+  {
+    "id": "116",
+    "format": "QA",
+    "content": [
+      "Q: Why can't you use 'Soup' as your password?",
+      "A: Because it isn't <code>stroganoff</code>"
+    ]
+  },
+  {
+    "id": "117",
+    "format": "QA",
+    "content": [
+      "Q: Why do developers use mechanical keyboards?",
+      "A: To strongly type their code."
+    ]
+  },
+  {
+    "id": "118",
+    "format": "one-liner",
+    "content": [
+      "A new database query walks into a bar. The server says \"Sorry, cache only.\""
+    ]
+  },
+  {
+    "id": "119",
+    "format": "one-liner",
+    "content": [
+      "What's the best tool for automatically ignoring long email threads about tech buzzwords?\"\"Block-chain\""
+    ]
+  },
+  {
+    "id": "120",
+    "format": "QA",
+    "content": [
+      "Q: What is a developer's favorite country song?",
+      "A: Hello World - by Lady Antebellum"
+    ]
+  },
+  {
+    "id": "121",
+    "format": "QA",
+    "content": [
+      "Q: Why was nobody given food at the developer conference?",
+      "A: It was a serverless function!"
+    ]
+  },
+  {
+    "id": "122",
+    "format": "QA",
+    "content": [
+      "Q: Why did the developer cancel their dinner plans?",
+      "A: They were unable to fulfil peer dependencies"
+    ]
+  },
+  {
+    "id": "123",
+    "format": "QA",
+    "content": [
+      "Q: Why did the functional programmer finally move out of their house?",
+      "A: For(e) closure"
+    ]
+  },
+  {
+    "id": "124",
+    "format": "QA",
+    "content": [
+      "Q: How do JavaScript developers break up?",
+      "A: They always promise to callback"
+    ]
+  },
+  {
+    "id": "125",
+    "format": "QA",
+    "content": [
+      "Q: Why do developers mixup Terminals and Polygraphs?",
+      "A: Because they both can see a lie (CLI)"
+    ]
+  },
+  {
+    "id": "126",
+    "format": "QA",
+    "content": [
+      "Q: Did you hear about the programmer that was scared of IDEs?",
+      "A: They retreated back into their shell"
+    ]
+  },
+  {
+    "id": "127",
+    "format": "QA",
+    "content": [
+      "Q: What do you call optimistic front-end developers?",
+      "A: Stack half-full developers."
+    ]
+  },
+  {
+    "id": "128",
+    "format": "one-liner",
+    "content": [
+      "Chuck Norris can take a screenshot of his blue screen."
+    ]
+  },
+  {
+    "id": "129",
+    "format": "QA",
+    "content": [
+      "Q: Have you heard the one about the Corduroy pillow?",
+      "A: It's making HEADLINES!"
+    ]
+  },
+  {
+    "id": "130",
+    "format": "QA",
+    "content": [
+      "Q: Hey officer! How did the hackers escape?",
+      "A: No idea. They just ransomware."
+    ]
+  },
+  {
+    "id": "131",
+    "format": "QA",
+    "content": [
+      "Q: Why can’t data engineers become hat makers?",
+      "A: They can only guarantee two thirds of a CAP!"
+    ]
+  },
+  {
+    "id": "132",
+    "format": "QA",
+    "content": [
+      "Q: How did the hippie learn about database transactions?",
+      "A: By taking ACID"
+    ]
+  },
+  {
+    "id": "133",
+    "format": "QA",
+    "content": [
+      "Q: Why is it called the Dark Ages?",
+      "A: There were a lot of KNIGHTS!"
+    ]
+  },
+  {
+    "id": "134",
+    "format": "QA",
+    "content": [
+      "Q: What did the Network Administrator say when they caught a nasty virus?",
+      "A: It hurts when IP"
+    ]
+  },
+  {
+    "id": "135",
+    "format": "QA",
+    "content": [
+      "Q: Which programming language is the shortest?",
+      "A: HTML. Because it doesn't have a neck between its <code>head</code> and <code>body</code>."
+    ]
+  },
+  {
+    "id": "136",
+    "format": "QA",
+    "content": [
+      "Q: What good can come of 2989 witches casting a hex?",
+      "A: None, it is always 0xBAD"
+    ]
+  },
+  {
+    "id": "137",
+    "format": "QA",
+    "content": [
+      "Q: Did you hear about the witch who was off by two when casting a hex?",
+      "A: They failed to make the target DEAD and made them DEAF instead!"
+    ]
+  },
+  {
+    "id": "138",
+    "format": "one-liner",
+    "content": [
+      "I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k.It was a trip down Memory Lane."
+    ]
+  },
+  {
+    "id": "139",
+    "format": "one-liner",
+    "content": [
+      "Lisp programmers don't make prank calls. They make <code>FUNCALL</code>s"
+    ]
+  },
+  {
+    "id": "140",
+    "format": "QA",
+    "content": [
+      "Q: Why do Front-End Developers eat lunch alone?",
+      "A: Because, they don't know how to join tables."
+    ]
+  },
+  {
+    "id": "141",
+    "format": "QA",
+    "content": [
+      "Q: What advice do you give to a JS developer who has never played baseball?",
+      "A: Try catch."
+    ]
+  },
+  {
+    "id": "142",
+    "format": "QA",
+    "content": [
+      "Q: Why are the arrays that Chuck Norris declare, of infinite size.",
+      "A: Because Chuck Norris knows no bounds."
+    ]
+  },
+  {
+    "id": "143",
+    "format": "QA",
+    "content": [
+      "Q: Why doesn't Chuck Norris need garbage collection.",
+      "A: Because he doesn’t call <code>.Dispose()</code>, he calls <code>.DropKick()</code>."
+    ]
+  },
+  {
+    "id": "144",
+    "format": "QA",
+    "content": [
+      "Q: How did the programmer die in the shower?",
+      "A: He read the shampoo bottle instructions: Lather. Rinse. Repeat."
+    ]
+  },
+  {
+    "id": "145",
+    "format": "one-liner",
+    "content": [
+      "When I wrote this code, only God and I understood what I was doing. Now, only God knows."
+    ]
+  },
+  {
+    "id": "146",
+    "format": "QA",
+    "content": [
+      "Q: What did the Java code say to the C code?",
+      "A: You've got no class."
+    ]
+  },
+  {
+    "id": "147",
+    "format": "QA",
+    "content": [
+      "Q: What is the most used language in programming?",
+      "A: Profanity."
+    ]
+  },
+  {
+    "id": "148",
+    "format": "QA",
+    "content": [
+      "Q: Why did the geek add <code>body { padding-top: 1000px; }</code> to his Facebook profile?",
+      "A: He wanted to keep a low profile."
+    ]
+  },
+  {
+    "id": "149",
+    "format": "one-liner",
+    "content": [
+      "8 bytes walk into a bar, the bartenders asks \"What will it be?\" <br/>One of them says, \"Make us a double.\""
+    ]
+  },
+  {
+    "id": "150",
+    "format": "one-liner",
+    "content": [
+      "An SEO couple had twins. For the first time, they were happy with duplicate content."
+    ]
+  },
+  {
+    "id": "151",
+    "format": "one-liner",
+    "content": [
+      "LISP - Lots of Infuriating Superfluous Parentheses"
+    ]
+  },
+  {
+    "id": "152",
+    "format": "one-liner",
+    "content": [
+      "I'm starting a band called 1023MB. I don't think we'll ever get a gig."
+    ]
+  },
+  {
+    "id": "153",
+    "format": "QA",
+    "content": [
+      "Q: Why did the developer quit his job?",
+      "A: He did not get arrays."
+    ]
+  },
+  {
+    "id": "154",
+    "format": "one-liner",
+    "content": [
+      "There are two ways to write error-free programs; only the third one works."
+    ]
+  },
+  {
+    "id": "155",
+    "format": "QA",
+    "content": [
+      "Q: Why couldn't the developer pull the weeds from the garden?",
+      "A: They didn't have root access."
+    ]
+  },
+  {
+    "id": "156",
+    "format": "one-liner",
+    "content": [
+      "Dev 1 -  We have a problem. Dev 2 -  Let’s use RegEx! Dev 1 -  Now we have two problems"
+    ]
+  },
+  {
+    "id": "157",
+    "format": "QA",
+    "content": [
+      "Q: How do you tell HTML from HTML5?",
+      "A: Try it out in Internet Explorer, if it does not work then it's HTML5."
+    ]
+  },
+  {
+    "id": "158",
+    "format": "QA",
+    "content": [
+      "Q: What do computers and air conditioners have in common?",
+      "A: They both become useless when you open windows."
+    ]
+  },
+  {
+    "id": "159",
+    "format": "one-liner",
+    "content": [
+      "99 little bugs in the code, 99 bugs in the code, 1 bug fixed...compile again, 100 little bugs in the code."
+    ]
+  },
+  {
+    "id": "160",
+    "format": "one-liner",
+    "content": [
+      "UNIX is very user friendly... It's just very particular about who its friends are."
+    ]
+  },
+  {
+    "id": "161",
+    "format": "one-liner",
+    "content": [
+      "Debugging: Removing the needles from the haystack."
+    ]
+  },
+  {
+    "id": "162",
+    "format": "one-liner",
+    "content": [
+      "You are the CSS to my HTML"
+    ]
+  },
+  {
+    "id": "163",
+    "format": "one-liner",
+    "content": [
+      "An optimist says: “the glass is half full.”<br/>A pessimist says: “the glass is half empty.”<br/>A programmer says: “the glass is twice as large as necessary."
+    ]
+  },
+  {
+    "id": "164",
+    "format": "one-liner",
+    "content": [
+      "CSS developers have the biggest ego, they think they're so !important"
+    ]
+  },
+  {
+    "id": "166",
+    "format": "one-liner",
+    "content": [
+      "The Professor says \"Welcome to English 101\".The student panicks.\"What's wrong?\" asks the Professor.<br/><br/>\"I missed the first 4 English classes\"."
+    ]
+  },
+  {
+    "id": "167",
+    "format": "QA",
+    "content": [
+      "Q: What do cats and programmers have in common?",
+      "A: When either one is unusually happy and excited, an appropriate question would be, \"did you find a bug\"."
+    ]
+  },
+  {
+    "id": "168",
+    "format": "one-liner",
+    "content": [
+      "Java and C were telling jokes. It was C's turn, so he writes something on the wall, points to it and says \"Do you get the reference?\" But Java didn't."
+    ]
+  },
+  {
+    "id": "169",
+    "format": "one-liner",
+    "content": [
+      "To understand recursion. You must first understand recursion."
+    ]
+  },
+  {
+    "id": "170",
+    "format": "one-liner",
+    "content": [
+      "Two bytes meet. The first byte asks, \"Are you ill?\"The second byte replies, \"No, just feeling a bit off.\" "
+    ]
+  },
+  {
+    "id": "171",
+    "format": "one-liner",
+    "content": [
+      "I put so much more effort into naming my first Wi-Fi than my first child."
+    ]
+  },
+  {
+    "id": "172",
+    "format": "QA",
+    "content": [
+      "Q: Why was the developer unable to find his room?",
+      "A: His room card said 404"
+    ]
+  },
+  {
+    "id": "173",
+    "format": "QA",
+    "content": [
+      "Q: How do you tell an introverted computer scientist from an extroverted scientist?",
+      "A: An extroverted computer scientist looks at your shoes when he talks to you."
+    ]
+  },
+  {
+    "id": "174",
+    "format": "QA",
+    "content": [
+      "Q: How do you comfort a JS bug?",
+      "A: You console it"
+    ]
+  },
+  {
+    "id": "175",
+    "format": "one-liner",
+    "content": [
+      "When an Apple employees dies, does their life HTML5 in front of their eyes?"
+    ]
+  },
+  {
+    "id": "176",
+    "format": "QA",
+    "content": [
+      "Q: What's 0.1+0.2?",
+      "A: It's 0.30000000000000004"
+    ]
+  },
+  {
+    "id": "177",
+    "format": "QA",
+    "content": [
+      "Q: Why do programmers prefer dark mode?",
+      "A: Because light attracts bugs."
+    ]
+  },
+  {
+    "id": "178",
+    "format": "QA",
+    "content": [
+      "Q: Did you know?",
+      "A: Spiders are the only web developers in the world that like finding bugs"
+    ]
+  },
+  {
+    "id": "179",
+    "format": "QA",
+    "content": [
+      "Q: Don't add a programming language to your skills list after watching a 15-minute video on it.",
+      "A: Yes wait until you've written hello world"
+    ]
+  },
+  {
+    "id": "180",
+    "format": "one-liner",
+    "content": [
+      "A data Scientist goes to a bar and sees two tables. Then he says: Hey bro... Can I join you?"
+    ]
+  },
+  {
+    "id": "181",
+    "format": "QA",
+    "content": [
+      "Q: Why do python developers wear glasses?",
+      "A: Because they can't C"
+    ]
+  },
+  {
+    "id": "182",
+    "format": "QA",
+    "content": [
+      "Q: Why does the Docker container fail?",
+      "A: So that, Kubernetes can start it again"
+    ]
+  },
+  {
+    "id": "183",
+    "format": "QA",
+    "content": [
+      "Q: I.. CAN'T GET.. IT.. OFF!!",
+      "A: DUDE, THAT'S BECAUSE YOUR CAPS LOCK IS ON"
+    ]
+  },
+  {
+    "id": "184",
+    "format": "QA",
+    "content": [
+      "Q: What do NASA programmers do on the weekends?",
+      "A: They hit the space bar"
+    ]
+  },
+  {
+    "id": "185",
+    "format": "QA",
+    "content": [
+      "Q: What do you call a programmer from Finland?",
+      "A: Nerdic"
+    ]
+  },
+  {
+    "id": "186",
+    "format": "QA",
+    "content": [
+      "Q: Want to know the biggest lie in the universe?",
+      "A: I have read and agree to the Terms & Conditions"
+    ]
+  },
+  {
+    "id": "187",
+    "format": "QA",
+    "content": [
+      "Q: What is the biggest lie you have heard from a programmer?",
+      "A: It should work now."
+    ]
+  },
+  {
+    "id": "188",
+    "format": "one-liner",
+    "content": [
+      "If the box says: \"This software requires Windows XP or better\". Does that mean it will run on Linux?"
+    ]
+  },
+  {
+    "id": "190",
+    "format": "one-liner",
+    "content": [
+      "If it weren't for C, we'd all be programming in BASI and OBOL"
+    ]
+  },
+  {
+    "id": "191",
+    "format": "one-liner",
+    "content": [
+      "Programming is like sex: One mistake and you have to support it for the rest of your life."
+    ]
+  },
+  {
+    "id": "192",
+    "format": "one-liner",
+    "content": [
+      "Chuck Norris writes code, that optimizes itself."
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "name": "FlyweightStarter",
+  "version": "1.0.0",
+  "description": "A starter template for Azure Functions with Swagger support",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "build": "tsc",
+    "build:production": "npm install && npm build && npm prune --production",
+    "prestart": "npm run build",
+    "start": "concurrently \"npm:start:host\" \"npm:watch\"",
+    "start:host": "func start",
+    "watch": "tsc -w",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "test": "jest",
+    "deploy": "npm build:production && func azure functionapp publish $AZ_FN --typescript --force"
+  },
+  "dependencies": {
+    "@flyweight.cloud/openroute": "^0.6.3",
+    "@flyweight.cloud/request": "^0.1.4",
+    "@flyweight.cloud/swaggerist": "^0.2.1",
+    "xpath-html": "^1.0.3"
+  },
+  "devDependencies": {
+    "@azure/functions": "^3.2.0",
+    "@flyweight.cloud/az-fn-mocks": "^0.1.2",
+    "@types/jest": "^29.1.2",
+    "@types/node": "16.x",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.42.0",
+    "concurrently": "^7.5.0",
+    "eslint": "^8.0.1",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.0.0",
+    "jest": "^29.1.2",
+    "prettier": "^2.7.1",
+    "ts-jest": "^29.0.3",
+    "ts-node": "^10.9.1",
+    "typescript": "*"
+  }
+}

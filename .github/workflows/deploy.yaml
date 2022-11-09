@@ -1,0 +1,35 @@
+name: Deploy to Azure
+
+on:
+  release:
+    types: [published]
+
+env:
+  AZURE_FUNCTIONAPP_NAME: flyweight-functions    # set this to your application's name
+  AZURE_FUNCTIONAPP_PACKAGE_PATH: '.'          # set this to the path to your web app project, defaults to the repository root
+  NODE_VERSION: '16.x'
+
+  # You'll also need to set AZURE_FUNCTIONAPP_PUBLISH_PROFILE to your publish profile in Github Secrets.
+
+jobs:
+  build:
+    runs-on: windows-latest
+    environment:
+      name: ActionEnv
+    steps:
+      - uses: actions/checkout@v3
+      # Setup .npmrc file to publish to npm
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+          registry-url: 'https://registry.npmjs.org'
+      - run: npm install
+      - run: npm run build:production
+      - name: 'Run Azure Functions Action'
+        uses: Azure/functions-action@v1
+        id: fa
+        with:
+          app-name: ${{ env.AZURE_FUNCTIONAPP_NAME }}
+          package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
+          publish-profile: ${{ secrets.AZURE_FUNCTIONAPP_PUBLISH_PROFILE }}
+          

@@ -1,0 +1,22 @@
+{
+  "bindings": [
+    {
+      "authLevel": "Anonymous",
+      "type": "httptrigger",
+      "direction": "in",
+      "name": "req",
+      "methods": [
+        "get",
+        "post",
+        "options"
+      ],
+      "route": "Jokes/{*segment}"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    }
+  ],
+  "scriptFile": "../dist/Jokes/index.js"
+}
