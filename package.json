@@ -8,7 +8,7 @@
   },
   "scripts": {
     "build": "tsc",
-    "build:production": "npm install && npm build && npm prune --production",
+    "build:production": "npm install && npm run build && npm prune --production",
     "prestart": "npm run build",
     "start": "concurrently \"npm:start:host\" \"npm:watch\"",
     "start:host": "func start",
@@ -20,7 +20,7 @@
   "dependencies": {
     "@flyweight.cloud/openroute": "^0.6.3",
     "@flyweight.cloud/request": "^0.1.4",
-    "@flyweight.cloud/swaggerist": "^0.2.1",
+    "@flyweight.cloud/swaggerist": "^0.2.3",
     "xpath-html": "^1.0.3"
   },
   "devDependencies": {
